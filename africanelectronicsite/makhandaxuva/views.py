@@ -11,4 +11,4 @@ import json
 # Create your views here.
 
 def home(request):
-    return HttpResponse("hello world!")
+    return HttpResponse("emily rules!")
