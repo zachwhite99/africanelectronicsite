@@ -11,4 +11,6 @@ import json
 # Create your views here.
 
 def home(request):
-    return HttpResponse("emily rules!")
+    template = loader.get_template('home.html')
+    context = {}
+    return HttpResponse(template.render(context, request))
