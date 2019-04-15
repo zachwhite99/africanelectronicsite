@@ -1,0 +1,11 @@
+site needs:
+
+a photo essay
+a video repo
+a link to the song
+a link to the artwork
+
+a main page:
+	- mission statement
+	- logos/branding
+
