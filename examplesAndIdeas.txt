@@ -1,0 +1,13 @@
+Main styles: marketing and repository
+
+Content:
+* main page (logo, description, video/slideshow)
+* menu bar of following things (side or top, potentially link to further down page)
+  * beats from studio
+  * class content (topics covered, important background for AEM in general)
+  * collaboration background (Black Power Station, etc)
+  * artwork created in collaboration
+
+examples:
+https://www.youthmusicproject.org/ 
+http://beatingheartproject.com/ (more artsy)
